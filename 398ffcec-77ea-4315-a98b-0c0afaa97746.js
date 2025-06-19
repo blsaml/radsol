@@ -1,0 +1,5 @@
+
+            $(function () {
+                Roblox.DeveloperConsoleWarning.showWarning();
+            });
+        
